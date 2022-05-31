@@ -1,0 +1,23 @@
+PODS:
+  - Hybrid (0.1.0):
+    - Util
+  - Util (0.1.0)
+
+DEPENDENCIES:
+  - Hybrid (from `../`)
+
+SPEC REPOS:
+  https://github.com/fyhNB/PGPodRepo.git:
+    - Util
+
+EXTERNAL SOURCES:
+  Hybrid:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Hybrid: dbcf37eeeba8059fd4509d4f9efe2ba1d4aa0ada
+  Util: c761ec789d1a813045c9eb36e79943a7dc27628d
+
+PODFILE CHECKSUM: e1754be3cc8a20bbaff68f89401a34c38af583f1
+
+COCOAPODS: 1.10.1
