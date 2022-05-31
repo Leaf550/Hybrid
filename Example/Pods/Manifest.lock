@@ -1,6 +1,6 @@
 PODS:
   - Hybrid (0.1.0):
-    - Util
+    - Util (= 0.1.0)
   - Util (0.1.0)
 
 DEPENDENCIES:
@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Hybrid: dbcf37eeeba8059fd4509d4f9efe2ba1d4aa0ada
+  Hybrid: 39e1d561aeb2c773296e902d0fccd340fa20361b
   Util: c761ec789d1a813045c9eb36e79943a7dc27628d
 
 PODFILE CHECKSUM: e1754be3cc8a20bbaff68f89401a34c38af583f1

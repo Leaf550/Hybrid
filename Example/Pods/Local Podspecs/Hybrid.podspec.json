@@ -22,7 +22,7 @@
   "source_files": "Hybrid/Classes/**/*",
   "dependencies": {
     "Util": [
-
+      "0.1.0"
     ]
   },
   "swift_version": "5.0"
